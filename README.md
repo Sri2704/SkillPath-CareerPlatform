@@ -35,7 +35,7 @@ SkillPath serves three key user groups:
 ## 🖼️ Sample Screenshots
 
 ### 🎓 Student Login Page – 1
-![Student Login 1](sample-images/student-login1.png.png)
+![Student Login 1](SkillPath_carrer_guidance_platform-main/sample-images/parent-page1.png.png)
 
 ### 🎓 Student Login Page – 2
 ![Student Login 2](sample-images/student-login3.png.png)
